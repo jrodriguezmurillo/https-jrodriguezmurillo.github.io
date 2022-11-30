@@ -13,4 +13,4 @@ Esta web forma parte entrega de la prueba de evaluación continua nº2 de la asi
 ## Visualización 3 - Hexagon Binning
 
 ![image](hexagon.jpg)
-Fuente: Kaggle: [Loan Data Set](https://www.kaggle.com/datasets/burak3ergun/loan-data-set)
+Fuente: Kaggle: [German Credit](https://www.kaggle.com/datasets/shravan3273/credit-approval)
