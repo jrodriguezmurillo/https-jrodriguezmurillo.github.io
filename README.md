@@ -8,7 +8,7 @@ Esta web conforma parte entrega de la prueba de evaluación continua nº2 de la 
 
 ## Visualización 2 - Gauge diagram
 
-
+pendiente
 
 ## Visualización 3 - Hexagon Binning
 
