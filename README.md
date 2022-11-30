@@ -8,7 +8,7 @@ Esta web conforma parte entrega de la prueba de evaluación continua nº2 de la 
 
 ## Visualización 2 - Gauge diagram
 
-pendiente
+<div class="flourish-embed" data-src="visualisation/12010682"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Visualización 3 - Hexagon Binning
 
