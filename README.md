@@ -4,19 +4,19 @@ Esta web forma parte entrega de la prueba de evaluación continua nº2 de la asi
 
 ## Índice
 
- - [Sanky Diagrams](##-Visualización-1---Sanky-Diagrams)
- - [Gauge diagram](##-Visualización-2---Gauge-diagram)
- - [Hexagon Binning](##-Visualización-3---Hexagon-Binning)
+ - [Sanky Diagrams](##-Visualización-1-:-Sanky-Diagrams)
+ - [Gauge diagram](##-Visualización-2-:-Gauge-diagram)
+ - [Hexagon Binning](##-Visualización-3-:-Hexagon-Binning)
 
-## Visualización 1 - Sanky Diagrams
+## Visualización 1 : Sanky Diagrams
 
 <div class="flourish-embed flourish-sankey" data-src="visualisation/11961478"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-## Visualización 2 - Gauge diagram
+## Visualización 2 : Gauge diagram
 
 <div class="flourish-embed" data-src="visualisation/12010682"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-## Visualización 3 - Hexagon Binning
+## Visualización 3 : Hexagon Binning
 
 ![image](hexagon.jpg)
 Fuente: Kaggle: [German Credit](https://www.kaggle.com/datasets/shravan3273/credit-approval)
