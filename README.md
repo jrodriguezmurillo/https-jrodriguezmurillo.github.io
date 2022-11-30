@@ -5,7 +5,6 @@ Esta web conforma parte entrega de la prueba de evaluación continua nº2 de la 
 ## Visualización 1 - Sanky Diagrams
 
 <div class="flourish-embed flourish-sankey" data-src="visualisation/11961478"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-<div class="flourish-embed flourish-sankey" data-src="visualisation/11961478"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Visualización 2 - Gauge diagram
 
