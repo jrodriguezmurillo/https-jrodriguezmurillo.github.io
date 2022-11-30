@@ -4,9 +4,9 @@ Esta web forma parte entrega de la prueba de evaluación continua nº2 de la asi
 
 ## Índice
 
- - [Sanky Diagrams](## Visualización 1 - Sanky Diagrams)
- - [Gauge diagram](## Visualización 2 - Gauge diagram)
- - [Hexagon Binning](## Visualización 3 - Hexagon Binning)
+ - [Sanky Diagrams](##-Visualización-1---Sanky-Diagrams)
+ - [Gauge diagram](##-Visualización-2---Gauge-diagram)
+ - [Hexagon Binning](##-Visualización-3---Hexagon-Binning)
 
 ## Visualización 1 - Sanky Diagrams
 
